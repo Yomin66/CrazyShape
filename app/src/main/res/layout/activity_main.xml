@@ -17,6 +17,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/cover" />
 
+
     <ImageView
         android:id="@+id/imgNext"
         android:layout_width="wrap_content"
