@@ -9,7 +9,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "tw.edu.pu.csim.tcyang.crazyshape"
+        applicationId "tw.edu.pu.s1081707.crazyshape"
         minSdkVersion 19
         targetSdkVersion 30
         versionCode 1
