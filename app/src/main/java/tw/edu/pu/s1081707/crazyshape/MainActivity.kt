@@ -16,8 +16,9 @@ public final class MyAppGlideModule : AppGlideModule()
 
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
-    override fun onCreate(savedInstanceState: Bundle?) {
 
+    override fun onCreate(savedInstanceState: Bundle?) {
+        var X: Int = (1..4).random()
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
